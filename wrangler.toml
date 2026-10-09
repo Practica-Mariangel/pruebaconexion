@@ -1,0 +1,13 @@
+name = "marc-erp-espejo"
+main = "marc-erp-worker-v159r4.js"
+compatibility_date = "2024-09-01"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "marc-erp-db-test"
+database_id = "dd738f3a-5237-4e72-9b99-22f41bbb862b"
+
+
+[[r2_buckets]]
+binding = "ARCHIVOS"
+bucket_name = "marc-erp-archivos-test"
